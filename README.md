@@ -176,6 +176,6 @@ cell1|cell2|cell3
 
 ## Image
 
-    ![My Image](/assets/images/coding.jpg)
+    ![My Image](/rabbits.jpg)
 
 ![My Image](/rabbits.jpg)
