@@ -178,10 +178,4 @@ cell1|cell2|cell3
 
     ![My Image](/assets/images/coding.jpg)
 
-![My Image](/assets/images/teaser/coding.jpg)
-
-## YouTube Embedding
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/DkPJqZMKH7I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DkPJqZMKH7I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![My Image](/rabbits.jpg)
